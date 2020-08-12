@@ -1,6 +1,8 @@
 # Gait-analysis
 Gait Analysis using Extreme Learning Machine (ELM) based classifier along with MLP, Ensemble, and SVM
 
+Given Joint rotation in Degrees, Classify into 9 tasks: Walking Normal Speed, Walking Very Slow, Walking Slow, Walking Medium, Walking Fast, Walking on Toes, Walking on Heels, Staircase Ascending, Straincase Desending
+
 # Extreme Learning Machine (ELM) implementation
 The ELM algorithm is similar to other neural networks with 3 key differences:
 
