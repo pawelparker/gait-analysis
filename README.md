@@ -1,4 +1,4 @@
-# gait-analysis
+# Gait-analysis
 Gait Analysis using Extreme Learning Machine (ELM) based classifier along with MLP, Ensemble, and SVM
 
 # Extreme Learning Machine (ELM) implementation
@@ -17,4 +17,5 @@ pip install git+https://github.com/masaponto/python-elm
 Usage Example:
 
 from elm import ELM
+
 elm = ELM(hid_num=100000).fit(train_set, train_set_labels)
