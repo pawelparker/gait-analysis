@@ -11,8 +11,10 @@ The ELM algorithm is similar to other neural networks with 3 key differences:
 3.The output neurons are linear rather than sigmoidal, this means we can use least square errors regression to solve the output weights.
 
 For ELM package installation:
+
 pip install git+https://github.com/masaponto/python-elm
 
 Usage Example:
+
 from elm import ELM
 elm = ELM(hid_num=100000).fit(train_set, train_set_labels)
