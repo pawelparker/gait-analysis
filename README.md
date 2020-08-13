@@ -1,6 +1,10 @@
 # Gait-analysis
 Gait Analysis using Extreme Learning Machine (ELM) based classifier along with MLP, Ensemble, and SVM
 
+*Human Gait Classification-1*
+Given Accelerations(about x,y and z axis)  and Angular Velocites (about x,y and z axis) and Joint Angles in Degrees classfiy into 7 different Tasks:Jogging, Normal walk, sit up,  up stair walk,  down stair walk, walk on heel and walk on toe.
+
+*Human Gait Classification -2*
 Given Joint rotation in Degrees, Classify into 9 tasks: Walking Normal Speed, Walking Very Slow, Walking Slow, Walking Medium, Walking Fast, Walking on Toes, Walking on Heels, Staircase Ascending, Straincase Desending
 
 # Extreme Learning Machine (ELM) implementation
